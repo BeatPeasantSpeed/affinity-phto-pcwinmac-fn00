@@ -1,4 +1,4 @@
-# 
+# Instant Affinity Photo filters for Mac OS | Native Affinity Photo filters for PC Windows. Featuring interactive-forms and non-destructive-editing — optimized for maximum performance on every platform.
 
 
 
